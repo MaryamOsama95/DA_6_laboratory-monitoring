@@ -18,25 +18,25 @@ Descriptive audit: for each checkpoint, the percentage of patients with each mon
 
 ## Results
 
-![Gender distribution](images/gender_distribution.png)
+![Gender distribution](gender_distribution.png)
 
 ### Baseline monitoring
-![Baseline monitoring](images/baseline_monitoring.png)
+![Baseline monitoring](baseline_monitoring.png)
 
 Coagulation testing was almost universal (98%), and the pregnancy test was completed for 75% of the 28 patients it applied to. Weight/BMI, CBC and LFT were completed for only 30-39% of patients at baseline.
 
 ### 6-monthly monitoring
-![6-monthly monitoring](images/six_monthly_monitoring.png)
+![6-monthly monitoring](six_monthly_monitoring.png)
 
 CBC and LFT compliance rose sharply to 83% at the 6-month check. Vitals were the weakest item (38%), and BMI reached 69%.
 
 ### Annual monitoring
-![Annual monitoring](images/annual_monitoring.png)
+![Annual monitoring](annual_monitoring.png)
 
 BMI, CBC and LFT compliance stabilised around 66-71% at the annual check.
 
 ### Overall trend
-![Overall completion trend](images/overall_completion_trend.png)
+![Overall completion trend](overall_completion_trend.png)
 
 Pooling all monitoring items at each checkpoint, overall completion rose from 51.4% at baseline to 68.2% at 6 months and 69.0% at the annual check — baseline monitoring was the weakest point in the pathway.
 
